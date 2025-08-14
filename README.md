@@ -1,6 +1,6 @@
 # 🌀 Obstacle Assault
 
-**Obstacle Assault** is a 3D third-person platformer game built with **Unreal Engine 5**. Players must navigate through a series of moving obstacles, jump across platforms, and time their movements precisely to reach the goal.
+**Obstacle Assault** is a 3D third-person platformer game built with **Unreal Engine 5**. Players must navigate through a series of moving obstacles, jump across platforms, and time their movements precisely to reach the goal!
 
 ---
 
